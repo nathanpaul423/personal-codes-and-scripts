@@ -6,24 +6,28 @@ from numpy import random
 gui.FAILSAFE = False
 
 while True:
-    time.sleep(1)
-    x1,y1 = gui.position() #initial position
-    time.sleep(1)
-    x2, y2 = gui.position() #final position
-    x = random.randint(1000)
-    y = random.randint(1000)
+    print('nathan')
 
-    # print(f'{x} & {y}')
+
+# while True:
+#     time.sleep(1)
+#     x1,y1 = gui.position() #initial position
+#     time.sleep(10)
+#     x2, y2 = gui.position() #final position
+#     x = random.randint(1000)
+#     y = random.randint(1000)
+#
+#     print(f'{x1} & {y1}')
 
     #if position remains the same in a given time
     #it will automatically move the mouse to a random position
-    if x2 - x1 == 0 & y2 - y1 == 0:
-        gui.moveTo(x,y)
+    # if x2 - x1 == 0 & y2 - y1 == 0:
+    #     gui.moveTo(x,y)
 
-#old automation just simply pressing the key 'numlock'
-
+# # #old automation just simply pressing the key 'numlock'
+#
 # while True:
-#     time.sleep(100)
+#     time.sleep(10)
 #     gui.keyDown('numlock')
 #     time.sleep(1)
 #     gui.keyUp('numlock')
