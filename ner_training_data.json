@@ -1,0 +1,2452 @@
+[
+  {
+    "text": "Order #:31757454\nApril/WM\nOETA:1056pm\nDQT:1055-1255am\nPAYMENT: cash\nTOTAL:45.20",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/New/31757908\nPaytender\nOETA 10:51pm\nDQT 10:50-11:50pm\nPay: $105",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31757440\nCASH\nOETA 10:43pm\nDQT 10:45-11:45pm\n$46.82",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31757153\nGennis/WM\nCash\nDQT-10:20 PM\nOETA-10PM-12AM\nTotal-$37.71",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31756438\nCris/wm\npaytender\nOETA 932\nDQT 940-1140pm \nPay: $38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31757546\nCash\nOETA 10:55 PM\nDQT 10:55-12:55 PM\nTOTAL: $38.59",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31757689\nCris/WM\nCaRD\nOETA 11\nDQT 11-12PM \nTOTAL $122.89",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #:31757512\nApril/WM\nOETA:1036pm\nDQT: 1035-1235am\nPAYMENT: cash\nTOTAL:$102.54",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31757728\nCash\nOETA  11:10 PM\nDQT 11:10-12:10 AM\nTOTAL: $61.39",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31757625\ndebit card\nOETA 11:10 PM\nDQT 11:10-12:10 AM\nTOTAL: $38.59",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31757847\nCash\nOETA 10:50 PM\nDQT 10:50-11:50 PM\nTOTAL: $54.30",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order#: 615983172\nAlpha/Meadow\nALTERNATE PHONE NUMBER: none\nMOP: PayTender\nOETA: 10:50pm\nDQT: 11:00pm to 12:00am\nPAY: $66.80",
+    "entities": [
+      {
+        "start": 8,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31741108\nNEXT DAY PO - 11/18/23\nTRINA / WM\nMOP - CASH\nCRT - 230-530\nmoved to 7 - 10\nTOTAL - $75.66",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order#: 2013597080\nAlpha/Meadow\nALTERNATE PHONE NUMBER: none\nMOP: PayTender\nOETA: 9:12pm\nDQT: 9:22pm to 11:22pm\nPAY: $86.82",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #:31757741\nApril/WM\nOETA:1115pm\nDQT:1115-115am\nPAYMENT: Xfer\nTOTAL:37.71",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31757852\nGennis/WM\nCash\nDQT-12:01 AM\nOETA-11PM-12AM\nTotal-$38.59\n\nPlease do not have the driver go to my door. Go to the end of the court at the dead end, and I will come to your car. Thank you.",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/8602575\nPENDING |XF\nOETA 11:34pm\nDQT 11:15pm-12:15am\n$50.87",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31757667\nCris/wm\nCash\nOETA 1140\nDQT 1150-1250PM \nTOTAL  $48.58",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/New/173671577\nCASH\nOETA 11:36pm\nDQT 11:30pm-12:30am - willing to wait\n$158",
+    "entities": [
+      {
+        "start": 17,
+        "end": 25,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31757677\nCris/wm\nCash\nOETA 1140\nDQT 1150-1250pm \nTOTAL $51.20",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "NEXT DAY PREORDER 11/19 ALPHA\nOrder#: 661406335\nAlpha/Meadow\nALTERNATE PHONE NUMBER: none\nMOP: PayTender\nCRT: 10:00AM TO 1:00PM\nPAY: $138.62",
+    "entities": [
+      {
+        "start": 38,
+        "end": 46,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1209872802\nsyrell/meadow\nPT\nOETA 10:19\nDQT 10:20-1:20pm \nPay: $43.55",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760210\ncessy/wm\ncash\noeta 1033\ndqt 1043 - 143\n$67.05",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31752726\nNEXT DAY PO 11/19\nRISHEL/ WM\nCASH\nCRT 10-1 \nTOTAL 184.58",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER\n11/19\nLeeco/Meadow/2000161337\nCASH\nCRT 10am-1pm\n$83.73",
+    "entities": [
+      {
+        "start": 28,
+        "end": 37,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759786\nsyrell/wm\ncash\nOETA \nDQT 11-2pm \n$44.80",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760316\nsyrell/wm\ncash\nOETA 11:10\nDQT 11:10-2:10pm \n$161.26",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760106\ncessy/wm\ncash\noeta 1115\ndqt 1125 - 225\n$141.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "NEXT DAY PREORDER 11/19 ALPHA\nOrder#: 2057141772\nAlpha/Meadow\nALTERNATE PHONE NUMBER: none\nMOP: Cash\nCRT: 10:00AM TO 1:00PM\nTOTAL: $74.87",
+    "entities": [
+      {
+        "start": 38,
+        "end": 47,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER FOR 11/19\ngs meadow#2861322216\nxf\nCRT10/1\n192.63\nPENDING/XF/192.63/GS/",
+    "entities": [
+      {
+        "start": 29,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER 11/19\nOrder# 31755972\nGennis/WM\nxfer\nCRT-10AM-1PM\nTotal-$120.64",
+    "entities": [
+      {
+        "start": 22,
+        "end": 29,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761913\ncessy/wm\ncash\noeta 1146\ndqt 1156 - 256\n$92.12",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Preorder/ 31755363\nAuggi\nWM\nCash\nCRT 10-1 PM\nTotal: $87.39.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 17,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER 11/19\nOrder Number - 924918279\n(GENNIS) - WM\nXfer\nCRT-10AM-1PM\nTotal -$59.64\nVERIFIED/XF/$59.64/CLIFFORD",
+    "entities": [
+      {
+        "start": 30,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760967\ncessy/wm\npaytender\noeta 1223\ndqt 1233 - 333\nPAY: $45.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759759\ncessy/wm\ncash\noeta 1030\ndqt 1040 - 140\n$49.20",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #4037027577\nNEXTDAY PREORDER FOR SUNDAY 11/19\nSYRELL/ MEADOW- new cust\ncash \nCRT 10/1\nTotal$175.57",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "DELIVERY ON 11/19/2023\nOrder #508391750\nRISHEL/ MEADOW\nCASH\nCRT 12-3pm\nTOTAL 179.65",
+    "entities": [
+      {
+        "start": 30,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759633\ncessy/wm\ncash\noeta 1149\ndqt 1159 - 259\n$101.80",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1063527856\"\nLorraine | Meadow\nInstantXfer\nOETA 1221PM\nDQT 1225-225PM\nTOTAL $64.00\n\nVERIFIED / InstantXfer/ $79.00/CLIFFORD",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #3863426975\nPREORDER FOR SUNDAY 11/19\nSYRELL/ MEADOW\nPT \nCRT 10-1pm\nTotal$56.00\nPay: $56.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "next day preorder 11/19\nOrder #31745215\ncessy/wm\ncash\nCRT: 10-1\n$125.59",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #271933300\nsyrell/meadow\nPT\nOETA 12:55\nDQT 12:55-3:55pm \nPay: $86.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER\n11/19\nLeeco/Meadow/1989959635\nPayTender\nCRT 12pm-3pm\nPay: $44.55",
+    "entities": [
+      {
+        "start": 28,
+        "end": 37,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "NEXT DAY PO 11/19\nOrder #31757681\nCris/WM\nCash\nCRT 10-1PM \nTOTAL $67.75",
+    "entities": [
+      {
+        "start": 25,
+        "end": 32,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER 11/19\nOrder# 759589160\nGennis/MEADOW\nCash\nCRT-11AM-2PM\nTotal-$94.16",
+    "entities": [
+      {
+        "start": 22,
+        "end": 30,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759699\ncessy/wm\ncash\noeta 1211\ndqt 1221 - 321\n$51.20",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760689\"\nLorraine / Weedmaps\nCash\nOETA 144PM\nDQT 145-445PM\nTOTAL $153.47",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31763581\ncessy/wm\ncash\noeta 233\ndqt 243 - 543\n$50.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31762623\nRISHEL/ WM\nCASH\nOETA 145\nDQT 145-445\nTOTAL $40.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759772\ncessy/wm\ncash\noeta 134\ndqt 143 - 443\n$65.13",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER 11/19 (Sunday)\nOrder Number - 31757000\nDispatcher(KEVIN) - WeedMaps\nCash \nCRT - 10am-1pm\nTotal - $68.41",
+    "entities": [
+      {
+        "start": 39,
+        "end": 46,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leafly #15016208\"\nLorraine | Leafly\nPaytender\nOETA 220PM\nDQT 220-520PM\nTOTAL $53.50\nPay: $53.50",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761687\"\nLorraine / Weedmaps\nCash\nOETA 243PM\nDQT 245-545PM\nTOTAL $82.35",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760950\ncessy/wm\ncash\noeta 316\ndqt 326 - 626\n$55.90",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1765219161\"\nLorraine / Weedmaps\nInstantxfer\nOETA 144PM\nDQT 145-445PM\nTOTAL  $90.60\n\nverified/xfer/$95.60/clifford",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31763689\ncessy/wm\ncash\noeta 331\ndqt 341 - 641\n$$56.70",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #3535741691\nsyrell/meadow\ncash\nCRT 12 - 3pm\n$66.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761487\nsyrell/wm\ncash\nOETA 1:23\nDQT  1:23-4:23pm \n$39.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761578\nsyrell/wm\ncash\nOETA \nDQT 2:30-5:30pm \n$60.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #180051305\nsyrell/meadow\ncash\nOETA\nDQT 12-3pm \n$104.10",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761753\nRISHEL/ WM\nCASH\nOETA 230\nDQT 230-530 \nTOTAL $52.62",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759735\ncessy/wm\ncash\noeta 134\ndqt 144 - 444\n$103.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765475\nCris/WM\nCash\nOETA  3\nDQT 3-4PM \nTOTAL  $101.80",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761284\nsyrell/wm- new cust\ncash\nOETA 1:28\nDQT 1:28-4:28pm \n$44.73",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760160\ncessy/wm\ncash\noeta 115\ndqt 125 - 425\n$$45.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "New Order: #25869\nRISHEL/ SR\nXF\nOETA 311\nDQT 315-615 \nTOTAL $175.90\nVERIFIED/ XF/ $186.00/ CLIFFORD",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31762307\nRISHEL/ WM\nDEBIT\nOETA 3\nDQT 3-*6 \nTOTAL 38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1531275509\nRISHEL/ WM\nCASH\nOETA 3\nDQT 3-6 \nTOTAL $63.14",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #70409181\nsyrell/meadow\ncash\nOETA 3:36\nDQT 3:36-6:36pm \n$78.94",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765890\nCris/wm\nCash\nOETA 357\nDQT 4-6pm \nTOTAL $38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759735\ncessy/wm\ncash\noeta 134\ndqt 144 - 444\n$103.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #91573149\"\nLorraine / Meadow\nCASH\nOETA 353PM\nDQT 355-455PM\nTOTAL $89.20",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31760421\nsyrell/wm\nXfer\nOETA 1:36\nDQT  1:36-4:36pm  \n$48.23\nVERIFIED/XF/$48.23/CLIFFORD",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1687227810\nRISHEL/ WM\nCASH\nOETA 318\nDQT 320-620 \nTOTAL 59.64",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #260188718\nRISHEL/ MEADOW\nCASH\nOETA 330 \nDQT 330-630 \nTOTAL 45.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/new/31763874\nCASH\nOETA 3:12\nDQT 3:15-5:15pm\n$40.30",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #245310827\nsyrell/meadow\ncash\nOETA 11:30\nDQT4:26-5:56pm\n$68.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #916347729\nRISHEL/ MEADOW\nCASH\nOETA 330\nDQT 330-630 \nTOTAL $233.05",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/New/31763927\nCASH\nOETA 4pm\nCRT 3:30-4:30pm - the sooner the better\n$32.00",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #784215735\nRISHEL/ MEADOW\ndebit\nOETA 411\nDQT 415-715 \nTOTAL 50.87",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765701\nRISHEL/ WM\nCASH\nOETA 4\nDQT 4-7 \nTOTAL 38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31763277\"\nLorraine / Weedmaps\nCash\nOETA 413PM\nDQT 415-615PM (asking to expedite order)\nTOTAL $42.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1279791442\nsyrell/meadow\ncash\nOETA 3:25\nDQT 3:25-6:25pm \n$111.22",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31764172\ncessy/wm\ncash\noeta 452\ndqt 502 - 802\n$39.46",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765225\nCris/wm\nCash\nOETA 355\nDQT 4-6pm \nTOTAL $35.09",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "same day preorder 11/19\nOrder #31762032\ncessy/wm\ncash\nCRT; 4-7\n$75.28",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765546\nsyrell/wm\nxfer\nOETA 4:29\nDQT 4:29-7:29pm \n$45.60\n\nVERIFIED/XFER/ $45.60 /CHARMAINE",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31762046\nsyrell/wm- new cust \ncash\nOETA 3:10\nDQT 3:10-6:10pm \n$37.71",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761580\nSAME DAY PO 11/19\nRISHEL/ WM\nPT\nCRT 330-630 \nPay: $61.39",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #2806537451\nPREORDER FOR SUNDAY 11/19\nSYRELL/ MEADOW\ncash \nCRT 3-5pm \n$42.10",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "sameday preorder_11.19\nrder #2071406217\"\nLorraine / Meadow\nPaytender\nCRT 5-8 PM\nTOTAL $55.90\nPay: $55.90",
+    "entities": [
+      {
+        "start": 29,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31764452\nDEBIT CARD\nOETA 3:40pm\nDQT 3:45-5:45pm\n$76.25",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766606\nRISHEL/ WM\nPT\nOETA 457\nDQT 5-8 \nPay: $49.11",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766155\ncessy/wm\ncash\noeta 518\ndqt 528 - 828\n$91.70",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31767034\nCASH\nOETA 5:18pm\nDQT 5:15-7:15pm\n$57",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/New/31763966\nDEBIT CARD\nOETA 4:25pm\nDQT 4:30-6:30pm\n$50.20",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761245\ncessy/wm\ncash\noeta 220\ndqt 230 - 530\n$73.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "same day preorder 11/19\nOrder #31763030\ncessy/wm\ncash\nCRT: 4pm-7pm\n$67.10\n\nVERIFIED/XFER/ $67.10 /CHARMAINE",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31767936\nCris/wm\nCash\nOETA 523\nDQT 530-630pm \nTOTAL $62.27",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "sameday preorder_11.19\norder #2000185439\"\nLorraine | Meadow\nInstantXfer\nCRT 5-8 PM\nTOTAL $186.34\n\nVERIFIED/XFER/ $206.34 /CHARMAINE",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #360277332\nRISHEL/ MEADOW\nCASH\nOETA 521\nDQT 525-825 \nTOTAL 62.10",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31767222\nCASH\nOETA 5:12pm\nDQT 5:15-7:15pm\n$45.60",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765701\nRISHEL/ WM\nCASH\nOETA 5:20 PM\nDQT 5:30 PM - 6:30 PM \nTOTAL 38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766502\ncessy/wm\nCash\nOETA  435\nDQT  445 - 745\nTOTAL $53.50",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31767427\n|XF\nOETA 5:28pm\nDQT 5:30-7:30pm\n$110.79\n\nVERIFIED/XFER/  $115.79/CHARMAINE",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31765785\nCASH\nOETA 5:06pm\nDQT 5-7pm\n$61.39",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #273615008\nLorraine / Meadow\nCASH\nOETA 430PM\nDQT 430-630PM\nTOTAL $112.50",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "SAME DAY PREORDER\n11/19\nLeeco/WM/31764774\nPAytender\nCRT 5:30pm-8:30pm\nPay: $131.20",
+    "entities": [
+      {
+        "start": 33,
+        "end": 40,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "PREORDER 11/19\nOrder Number - 1277038795\n(GENNIS) - /Meadow\nCash\nCRT-5PM-8PM\nTotal -$129.40",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31765313\nCASH\nOETA 5:17pm\nDQT 5:20-7:20pm\n$64.24",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765973\ncessy/wm\ncash\noeta 514\ndqt 524 - 824\n$39",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #2011770241\nRISHEL/ MEADOW\nCASH\nOETA 524\nDQT 525-825 \nTOTAL 154.32",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31762961\nSAME DAY PREORDER FOR SUNDAY 11/19\nSYRELL/WM\ncash \nCRT 5-8pm \nTotal$82.94",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "same day preorder 11/19\nOrder #31761192\ncessy/wm\nXF\nCRT: 5pm-8pm\n$243.97\n\nVERIFIED/XF/$263.97/CLFFORD",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766187\nCris/wm\nCash\nOETA 522\nDQT 530-8\nTOTAL $82.30",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766482\nCris/wm\nPT\nOETA 544\nDQT 550-8pm\nPay: $38.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31759795\nSAME DAY PREORDER FOR SUNDAY 11/19\nSYRELL/WM\ncash \nCRT 5-8pm \nTotal$47.30",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768290\nQueenie/WM\nMOP debit card\nOETA 5:58 PM\nDQT 6:08 PM - 8:08 PM\nTOTAL $77.29",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766000\ncessy/wm\ncash\noeta 519\ndqt 529 - 829\n$57",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "sameday preorder_11.19\nrder #47720969\"\nLorraine / Meadow\nCASH\nOCRT 5 -8 PM\nTOTAL $126.29",
+    "entities": [
+      {
+        "start": 29,
+        "end": 36,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "NEXT DAY PREORDER 11/19 ALPHA\nOrder#: 12733\nAlpha/NUGG\nALTERNATE PHONE NUMBER: none\nMOP: Cash\nCRT: 6:00pm to 9:00pm\nTOTAL: $139.17",
+    "entities": [
+      {
+        "start": 38,
+        "end": 42,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #1514823525\nLorraine / Meadow\nCASH\nOETA 524PM\nDQT 525-725PM\nTOTAL $154.69",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31762171\nSAME DAY PO 11/19\nRISHEL/ WM\nCASH\nCRT 4-7 \nTOTAL 52.62",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766640\nsyrell/wm- new cust\ncash\nOETA \nDQT 5:30-8:30pm \n$61.39",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #3019247029\nRISHEL/ MEADOW\nXF\nOETA 537\nDQT 540-840 \nTOTAL $97.00\nVERIFIED/XFER/  $116.40/CHARMAINE",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 2520267817\nDispatcher(JONATHAN) - / Meadow\nCash      \nOETA - 7 PM\nDQT - 7 PM - 10 PM\nTotal - $84.19",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31766075\nCASH\nOETA 5:28pm\nDQT 5-7pm\n$61.39",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/3171045095\nPaytender \nOETA 5:46pm\nDQT 5:45-7:45pm\nPay: $136.47",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "sameday preorder_11.19\norder #1418412793\nLorraine | Meadow\nInstantXfer\nCRT 5-8 PM\nTOTAL $204.65\n\nRECEIVED/ InstantXfer/ $204.65/Lorraine",
+    "entities": [
+      {
+        "start": 30,
+        "end": 39,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31767345\nRISHEL/ WM\nCASH\nOETA 6\nDQT 6-9 \nTOTAL 67.53",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "sameday preorder_11.19\nOrder #31763304\"\nLorraine / Weedmaps\nCash\nCRT 5-8 PM\nTOTAL $134.18",
+    "entities": [
+      {
+        "start": 30,
+        "end": 37,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 25872\nDispatcher(JONATHAN) - SR /\nPT      \nOETA - 6:30 PM\nDQT - 6:30 PM - 9:30 PM\nTotal - $52.62\n\nPay: $52.62\n\nCustomer Notes - Call on arrival. - Jonathan /\n\nNO RESPONSE Regarding Specific Delivery Instructions \nNO RESPONSE if it is okay to knock on the door",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "same day preorder 11/19\nOrder #31763761\ncessy/wm\ncash\nCRT; 5pm-8pm\n$38.40",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/2310818613\n|XF\nOETA 5:38pm\nDQT 5:45-7:45pm\n$52.62\n\nVERIFIED/XFER/ $55.62 /CHARMAINE",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order#: 31768382\nAlpha/WM\nALTERNATE PHONE NUMBER: none\nMOP: Cash\nOETA: 6:46pm\nDQT: 7:56pm to 9:56pm\nTOTAL: $66.10",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766828\nsyrell/wm\nxfer\nOETA\nDQT 6-9pm \n$92.40\n\nVERIFIED/XFER/ $106.26 /CHARMAINE",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #2076320853\nRISHEL/ MEADOW\nCASH\nOETA 530\nDQT 530-830 \nTOTAL 61.39",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31764078\ncessy/wm\ncash\noeta 522\ndqt 532 - 832\n$81.00",
+    "entities": [
+      {
+        "start": 8,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768109\nCris/WM\nCash\nOETA 617\nDQT 620-820PM \nTOTAL $74.54",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31767754\nCris/wm\nCash\nOETA 625\nDQT 635-835PM \nTOTAL $38.59\n\nVERIFIED/XFER/  $42.59/CHARMAINE",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766638\nsyrell/wm\ncash\nOETA 6:18\nDQT 6:18-9:18pm \n$36.83",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31769275\nGennis/WM\nCash\nDQT-7:10PM\nOETA-7PM-9PM\nTotal-$59.86",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order#: 2615281948\nAlpha/Meadow\nALTERNATE PHONE NUMBER: none\nMOP: PayTender\nOETA: 7:25pm\nDQT: 7:35pm to 9:35pm\nPAY: $40.50",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766528\ncessy/wm\ncash\noeta 520\ndqt 530 - 830\n$$39.46",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31768614\nGennis/WM\nDEBIT CARD\nDQT-6:48 PM\nOETA-6PM-8PM\nTotal-$37.71",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768750\nQueenie/WM\nMOP debit card\nOETA 6:59 PM\nDQT 7:09 PM - 9:09 PM\nTOTAL $101.30",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766830\nsyrell/wm- new cust\ncash\nOETA 6:26\nDQT 6:26-9:26pm \n$40.47",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768791\nQueenie/WM\nMOP cash\nOETA 7:09 PM\nDQT 7:19 PM - 9:19 PM\nTOTAL $58.20",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31769212\nQueenie/WM\nMOP cash\nOETA 7:12 PM\nDQT 7:22 PM - 9:22 PM\nTOTAL $79.50",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "sameday preorder_11.19\nOrder #31762361\"\nLorraine / Weedmaps\nCash\nCRT 5 -8 PM\nTOTAL $148.64",
+    "entities": [
+      {
+        "start": 30,
+        "end": 37,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768250\nCris/WM\nCash\nOETA 626\nDQT 630-830PM \nTOTAL $53.50",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31761687\"\nLorraine / Weedmaps|NEW\nCash\nCRT After 530PM\nTOTAL $82.35",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31768800\nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 7 PM\nDQT - 7 PM - 10 PM\nTotal - $57.49",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766158\nsyrell/wm\nXF\nOETA\nDQT 5:30-8:30pm \nTOTAL: $38.59\nPENDING/ XF/ 38.59 / RISH",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "NUGG #12738\nCris\nCash\nOETA 736\nDQT 740-940pm \nTOTAL $114.17",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31768328\nGennis/WM\nCash/\nDQT-7:37 PM\nOETA-7PM-9PM\nTotal-$42.97",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #738022745\nRISHEL/ MEADOW\nCASH\nOETA 520\nDQT 520-820 \nTOTAL  68.01\nPENDING/ XF/ 68.01 / RISH",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31769300\nGennis/WM\nCash\nDQT-7:21 PM\nOETA-7PM-9PM\nTotal- $40.34",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765549\ncessy/wm\ncash\noeta 543\ndqt 553 - 853\n$61.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31765475\nCris/WM\nCash\nOETA  630\nDQT 640-840pm\nTOTAL  $101.80",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "same day preorder 11/19\nOrder #31760132\ncessy/wm\ncash\nCRT: 6pm-9pm\n$93.02",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768206\nQueenie/WM\nMOP cash\nOETA 7:39 PM\nDQT 7:49 PM - 9:49 PM\nTOTAL $146.14",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/4215236953\n|XF\nOETA 7:49pm\nDQT 7:45-9:45pm\n$63.60\n\nVERIFIED/XFER/ $68.60 /CHARMAINE",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Alpha/Phone\nALTERNATE PHONE NUMBER: 4084174337\nMOP: IXFER\nOETA: 7:30pm\nDQT: 7:40pm to 9:40pm\nTOTAL: $113.40\n\nVERIFIED/XFER/ $118.40 /CHARMAINE",
+    "entities": [
+      {
+        "start": 36,
+        "end": 45,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31768177\nGennis/WM\nCash\nDQT-7:13 PM\nOETA-7PM-9PM\nTotal-$38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# Order #3176992\nGennis/WM\nDEBIT CARD\nDQT-7:06 PM\nOETA-7PM-8PM\nTotal-$55.20",
+    "entities": [
+      {
+        "start": 14,
+        "end": 20,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768129\nCris/WM\nCash\nOETA 729\nDQT 730-930pm\nTOTAL $62.70",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/3279453454\n|XF\nOETA 8:06pm\nDQT 8-10pm\n$72.14\n\nVERIFIED/XFER/ $73.14 /CHARMAINE",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "EXCHANGE PLUS PAYMENT FOR PRICE DIFFERENCE\nCRIS/ TRANS NUMBER 704917\nMOP: CASH\nOETA: 7\nCRT: 7-10pm \nTOTAL: $36.59\n\n$36.59-$23 (PRICE OF THE ITEM HE'S RETURNING) \n\n\nPLS COLLECT $13.59\n\n\n\nThis order is an EXCHANGE PLUS PAYMENT FOR PRICE DIFFERRENCE. You will be receiving Cookies Distillate Dual Chamber Cartridge - Georgia Pie (0.5G) from the customer, and you will be giving them the item(s) indicated in their Blaze order. You will be collecting $13.59 from the customer (or verifying this amount with dispatch if they're paying online). This is less than the price in Blaze; you can close out the order normally & the difference will be deducted from your totals at the end of your shift.",
+    "entities": [
+      {
+        "start": 62,
+        "end": 67,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #3369746706\nQueenie/Meadow\nMOP cash\nOETA 5:58 PM\nDQT 6:08 PM - 8:08 PM\nTOTAL $51.74",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31769629\nGennis/WM\nCash/\nDQT-8:13 PM\nOETA-8PM-10PM\nTotal-$100.20",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "New Customer\nOrder Number - 15021195 \nDispatcher(JONATHAN) - Leafly /  \nCash      \nOETA - 8 PM\nDQT - 8 PM - 11 PM\nTotal - $65.77",
+    "entities": [
+      {
+        "start": 28,
+        "end": 35,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768119\nsyrell/wm- new cust\ncash\nOETA\nDQT 7-10pm \n$103.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/Meadow/3176278270\nCASH\nOETA 7:39pm\nDQT 7:45-9:45pm\n$66.65",
+    "entities": [
+      {
+        "start": 13,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31767310\nsyrell/wm- new cust\ncash\nOETA 6:39\nDQT 6:39-9:39pm \n$38.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31769603\nCris/wm\nCash\nOETA 839\nDQT 840-1040pm \nTOTAL $59.64",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 4163922661\nGennis/MEADOW\nCash\nCRT:7:30PM-9:30PM\nTotal-$64.90",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi /2327578352\nCash\nOETA  8 PM\nDQT 8-10 PM\nTOTAL:$57.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770590\nQueenie/WM\nMOP cash\nOETA 8:51 PM\nDQT 9:01 PM - 11:01 PM\nTOTAL $137.30",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31768308\nGennis/WM\nCash\nDQT-8:12 PM\nOETA-8PM-10PM\nTotal-$97.10",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31766100\ncessy/wm\ncash\noeta 532\ndqt 542 - 842\n$55.90",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31770611\nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 9 PM\nDQT - 9 PM - 12 AM\nTotal - $61.39",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771246\nCris/wm\nCash\nOETA 9\nDQT 9-10pm\nTOTAL $80.26",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31770562\nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 8:30 PM\nDQT - 8:30 PM - 11:30 PM\nTotal - $44.73",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770279\nCris/wm\nCash\nOETA 9\nDQT 9-11pm \nTOTAL $41.22",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 2184519938\nDispatcher(JONATHAN) - / Meadow\nPayTender  \nOETA - 9 PM\nDQT - 9 PM - 11 PM\nTotal - $90.07\n\nPay: $90.07\n\nCustomer Notes - Call on arrival. - Jonathan /\n\nNO RESPONSE Regarding Specific Delivery Instructions \nNO RESPONSE if it is okay to knock on the door",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771141\nDispatcher(KEVIN) - WeedMaps\nInstantXfer\nOETA - 10:15pm\nDQT - 10:15pm-1:15am\nTotal - $67.65\n\nVERIFIED/XFER/ $67.65 /CHARMAINE",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 4115877605\nPaytender \nOETA  7:30 PM\nDQT   7:30-9:30 PM\nTotal:  $101.80\nPay: $101.80\n\nNo alt #, call upon arrival , no need to knock -  Aug 11/19",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31770336\ndebit card\nOETA 8:45 PM\nDQT 8:45-10:45 PM\nTOTAL: $55.90",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31771341\nGennis/WM\nCash\nDQT-8:59 PM\nOETA-8PM-10PM\nTotal-$38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770509\nCris/wm\nCash\nOETA 846\nDQT 850-1050pm \nTOTAL $89.10",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #3181973206\nRISHEL/ MEADOW\nCASH\nOETA 650\nDQT 650-950 \nTOTAL $91.30",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31768393\nCash\nOETA 7:35 PM\nDQT  7:35-9:35 PM\nTOTAL: $102.61",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 3215555601\nDispatcher(KEVIN) - Meadow\nCash\nOETA - 8:50pm\nDQT - 8:50pm-11:50pm\nTotal - $136.81",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771235\nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 9 PM\nDQT - 9 PM - 11 PM\nTotal - $57.00",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31767699\nsyrell/wm\ncash\nOETA 6:41\nDQT 6:41-9:41pm\n$38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31768267\nQueenie/WM\nMOP cash\nCRT 8 PM - 10 PM\nTOTAL $37.71",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/New/31769153\nCASH\nOETA\nDQT 7:20-9:20pm\n$43.20",
+    "entities": [
+      {
+        "start": 13,
+        "end": 20,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770347\nCris/wm\nCash\nOETA 9\nDQT 9-11pm \nTOTAL 37.71",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "New Customer\nOrder Number - 31769845 \nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 8 PM\nDQT - 8 PM - 11 PM\nTotal - $45.60",
+    "entities": [
+      {
+        "start": 28,
+        "end": 35,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771654\nCris/wm\nCash\nOETA 1014\nDQT 1015-1115pm \nTOTAL $103.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31769744\nCris/wm\nCash\nOETA 821\nDQT 830-1030pm \nTOTAL$92.40",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31770394\nDEBIT CARD\nOETA 9:10pm\nDQT 9:15-11:15pm\n$61.25",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770960\nCris/WM\nCash\nOETA 936\nDQT 940-1140PM \nTOTAL $45.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770643\nCris/wm\nCard\nOETA 918\nDQT 920-1120pm \nTOTAL $71.80",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771206\nDispatcher(KEVIN) - WeedMaps\nCash \nOETA - 9:10pm\nDQT - 9:10pm-12:10am\nTotal - $45.60",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31771609\nGennis/WM\nCash/\nDQT-10:04 PM\nOETA-10PM-12AM\nTotal-$55.25",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31771574\nCASH\nOETA 10:16pm\nDQT 9:45-11:45pm\n$38.59",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770872\nCris/wm\nCard/ XFER\nOETA 923\nDQT 930-1130PM \nTOTAL  $90.62\n\nVERIFIED/ 90.62/ Alexander Weeks/ Cris\n\nVERIFIED/ $16.50/ Alexander Weeks/ Cris (DRIVERS TIP)",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31770543\nCASH\nOETA 8:38pm\nDQT 8:45-10:45pm\n$111.30",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31768738\nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 7 PM\nDQT - 7 PM - 10 PM\nTotal - $71.92",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771260\nDispatcher(JONATHAN) - WeedMaps /  \nPT      \nOETA - 9 PM\nDQT - 9 PM - 12 AM\nTotal - $44.80\n\nPay: $44.80\n\nCustomer Notes - Thanks. Please ask driver to wait curbside\n\n - Jonathan",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #749142254\nRISHEL/ MEADOW\nCASH\nCRT AFTER 7 PM\nTOTAL 64.15",
+    "entities": [
+      {
+        "start": 7,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31770856\nGennis/WM\nPAYTENDER\nDQT-9:56 PM\nOETA-9PM-11PM\nTotal-$93.50\nPay: $93.50",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 2293000658\nGennis/MEADOW\nCash/\nDQT-8:58 PM\nOETA-8PM-10PM\nTotal-$61.39",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771970\nDispatcher(KEVIN) - WeedMaps\nCash \nOETA - 11:10pm\nDQT - 11:10pm-1:10am\nTotal - $54.30",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order#: 31771322\nAlpha/WM\nALTERNATE PHONE NUMBER: none\nMOP: Cash\nOETA: 10:18pm\nDQT: 10:28pm to 12:28am\nTOTAL: $45.60",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771773\nQueenie/WM\nMOP cash\nOETA 10:03 PM\nDQT 10:13 PM - 11:13 PM\nTOTAL $116.14",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771592\nDispatcher(KEVIN) - WeedMaps \nCash \nOETA - 10:20pm\nDQT - 10:20pm-1:20am\nTotal - $81.56",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 3840813603\nDispatcher(JONATHAN) - / Meadow\nPayTender    \nOETA - 10:30 PM\nDQT - 10:30 PM - 12:30 AM\nTotal - $48.23\n\nPay: $48.23\n\nCustomer Notes - I'll meet you outside on Bryant street.\n\n - Jonathan",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 2819362323\nGennis/MEADOW\nPAYTENDER\nDQT-9:25 PM\nOETA-9PM-11PM\nTotal-$90.21.\nPay: $90.21",
+    "entities": [
+      {
+        "start": 7,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771495\nCris/wm\nCash\nOETA 10\nDQT 10-11pm \nTOTAL $51.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 31771652\nCash\nOETA  10:55 PM\nDQT 10:55-11:55 PM\nTOTAL: $45.60",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771664\nQueenie/WM\nMOP cash\nOETA 10:10 PM\nDQT 10:20 PM - 12:20 AM\nTOTAL $53.50",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order#: 31770725\nAlpha/WM\nALTERNATE PHONE NUMBER: 310-961-8706\nMOP: Cash\nOETA: 9:19pm\nDQT: 9:29pm to 11:29pm\nTOTAL: $61.30",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31772031\nQueenie/WM\nMOP cash\nOETA 11:37 PM\nDQT 11:47 PM - 12:47 AM\nTOTAL $45.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31770945\nPaytender\nOETA 10:08pm\nDQT 10-11:30pm\nPay: $73.20",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771581\nCris/wm\nCard\nOETA 10\nDQT 10-11pm\nTOTAL $55.25\nPay: $55.25",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 25873\nDispatcher(JONATHAN) - SR /\nCash      \nOETA - 9:30 PM\nDQT - 9:30 PM - 11:30 PM\nTotal - $35.96",
+    "entities": [
+      {
+        "start": 15,
+        "end": 19,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31770613\nDispatcher(KEVIN) - WeedMaps \nCash\nOETA - 10pm\nDQT - 10pm-1pm\nTotal - $46.48",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31771630\nGennis/WM\nCash/\nDQT-10:35 pM\nOETA-10PM-12AM\nTotal-$38.59",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31771862\nGennis/WM\nCash/\nDQT-10:48 PM\nOETA-10PM-12AM\nTotal-$62.30",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Leeco/WM/31771783\nPAYTENDER\nOETA 10:06pm\nDQT 10:15-11:15pm\n$52.70\n\nPay: $52.70\n\nVERIFIED/XFER/$52.70  /CHARMAINE",
+    "entities": [
+      {
+        "start": 9,
+        "end": 16,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31770587\nCris/wm\nCash\nOETA 937\nDQT 940-1140pm \nTOTAL $45.60",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 2790355350\nDispatcher(JONATHAN) -   / Meadow\nPayTender    \nOETA - 8:30 PM\nDQT - 8:30 PM - 11:30 PM\nTotal - $150.90\n\nPay: $150.90\n\nCustomer Notes - Call on arrival. - Jonathan /\n\nNO RESPONSE Regarding Specific Delivery Instructions \nNO RESPONSE if it is okay to knock on the door",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771339\nDispatcher(KEVIN) - WeedMaps \nCash \nOETA - 10:25pm\nDQT - 10:25pm-1:25am\nTotal - $42.00",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "New Customer\nOrder Number - 31771951 \nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 11 PM\nDQT - 11 PM - 1 AM\nTotal - $38.59",
+    "entities": [
+      {
+        "start": 28,
+        "end": 35,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771206\nDispatcher(KEVIN) - WeedMaps\nCash \nOETA - 9:10pm\nDQT - 9:10pm-12:10am\nTotal - $45.60",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Auggi / 3363441779\nInstantXfer\nOETA  10:50 PM\nDQT 10:50-11:50 PM\nTOTAL: $49.11\nVERIFIED/XFER/  $54.66/CHARMAINE",
+    "entities": [
+      {
+        "start": 8,
+        "end": 17,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order# 31772017\nGennis/WM\nXFE\nDQT-11:13 PM\nOETA-11PM-12AM\nTotal-$56.40\nVERIFIED/XFER/ $56.40 /CHARMAINE",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771850\nDispatcher(KEVIN) - WeedMaps\nCash\nOETA - 10:40pm\nDQT - 10:40pm-12:40am\nTotal - $35.96",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 31771696\nDispatcher(JONATHAN) - WeedMaps /  \nCash      \nOETA - 10 PM\nDQT - 10 PM - 12 AM\nTotal - $35.30",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order #31771998\nQueenie/WM\nMOP cash\nOETA 11:18 PM\nDQT 11:28 PM - 12:28 AM\nTOTAL $37.00",
+    "entities": [
+      {
+        "start": 7,
+        "end": 14,
+        "label": "Order_number"
+      }
+    ]
+  },
+  {
+    "text": "Order Number - 15021130 \nDispatcher(KEVIN) - Leafly\nPayTender \nOETA - 8:55pm\nDQT - 8:55pm-11:55pm\nTotal - $40.47\nPay: $40.47",
+    "entities": [
+      {
+        "start": 15,
+        "end": 22,
+        "label": "Order_number"
+      }
+    ]
+  }
+]
